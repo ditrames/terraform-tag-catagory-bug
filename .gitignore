@@ -1,0 +1,7 @@
+#secrets
+secrets.auto.pkrvars.hcl
+.envrc
+terraform.sops.yaml
+*.tfstate*
+.terraform*
+*auto.tfvars
